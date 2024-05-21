@@ -1,0 +1,53 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+}
+header
+{
+    background-color: aqua;
+    width: 100%;
+    height: 20%;
+}
+
+main
+{
+    background-color: red;
+    width: 100%;
+    height: 40%;
+}
+
+section
+{
+    background-color: green;
+    width: 100%;
+    height: 30%;
+}
+
+.izq
+{
+    background-color: blue;
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+
+.der
+{
+    background-color: greenyellow;
+    width: 50%;
+    height: 100%;
+    float: right;
+}
+
+footer
+{
+    background-color: blueviolet;
+    width: 100%;
+    height: 10%;
+}
+
+.arriba
+{
+    
+}
